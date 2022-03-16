@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
  <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 
-<h1 align="center">Hi , I'm Saitej Golivi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Shravya rao<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+  <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </p>
 <hr color="blue"/>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
-- I’m currently learning🌱 MERN stack and applying them on a few basic applications you can check them here. [Click here](https://github.com/GoAlive13)  
+- I’m currently learning🌱 MERN stack and applying them on a few basic applications you can check them here. [Click here](https://github.com/shravyarao889)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies
@@ -145,11 +145,11 @@ Here are some ideas to get you started:
 <hr/>
 
 ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoAlive13&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shravyarao889&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoAlive13" alt="huxly123" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravyarao889" alt="huxly123" /></p>
 <br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoAlive13&show_icons=true&locale=en&layout=compact" alt="Saiteja Golivi" /></p>
+ <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravyarao889&show_icons=true&locale=en&layout=compact" alt="Shravya Rao" /></p>
  <br/>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
