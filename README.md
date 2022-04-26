@@ -54,28 +54,76 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoAlive13&theme=algolia" alt="Saiteja Golivi" /></p> -->
 
 
-## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+### 🛠️ My Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank">   
+  <a href="https://html.com/" target="_blank">   
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23E34F26.svg?style=plastic&logo=javascript&logoColor=white">
    </a>
 	&emsp;
-	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+	<a href="https://reactjs.org/" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
    </a>
+	&emsp;
+	<a href="https://react-redux.js.org/" target="_blank">   
+   <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23E34F26.svg?style=plastic&logo=redux&logoColor=white">
+  </a>   
+ 
+</p>
+<p align="center" background-color="yellow"> 
+  &emsp; 
+  <a href="http://expressjs.com/" target="_blank"> 
+   <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
+  </a>   
+	&emsp; 
+  <a href="https://nodejs.org/" target="_blank"> 
+   <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node.js&logoColor=white">
+  </a>  &emsp; 
+	<a href="https://www.mongodb.com/" target="_blank"> 
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a> 
+	 &emsp; 
+	<a href="https://git-scm.com/" target="_blank"> 
+   <img alt="GitBash" src="https://img.shields.io/badge/GitBash%20-%23E34F26.svg?style=plastic&logo=git&logoColor=white">
+  </a> 
+	 &emsp; 
+	<a href="https://www.netlify.com/" target="_blank"> 
+   <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23E34F26.svg?style=plastic&logo=netlify&logoColor=white">
+  </a> 
+	 &emsp; 
+	<a href="https://vercel.com/" target="_blank"> 
+   <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23E34F26.svg?style=plastic&logo=vercel&logoColor=white">
+  </a> 
+	 &emsp; 
+	<a href="https://dashboard.heroku.com/" target="_blank"> 
+   <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23E34F26.svg?style=plastic&logo=heroku&logoColor=white">
+  </a> 
+	 &emsp; 
+	<a href="https://www.postman.com/" target="_blank"> 
+   <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23E34F26.svg?style=plastic&logo=postman&logoColor=white">
+  </a> 
 </p>
 
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr>
+
+<br/>  
 ### 👉 Backend Development
 <p align="center" background-color="yellow"> 
   &emsp; 
