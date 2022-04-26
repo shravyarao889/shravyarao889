@@ -124,20 +124,7 @@ Here are some ideas to get you started:
 </td></tr>
 
 <br/>  
-### 👉 Backend Development
-<p align="center" background-color="yellow"> 
-  &emsp; 
-  <a href="http://expressjs.com/" target="_blank"> 
-   <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
-  </a>   
-	&emsp; 
-  <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
-   <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node&logoColor=white">
-  </a>  &emsp; 
-	<a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
-  </a> 
-</p>
+
 
 <!--  ### 👉 Software & Tools
  
